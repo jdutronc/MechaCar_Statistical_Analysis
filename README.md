@@ -22,10 +22,10 @@ Besides, when an intercept is statistically significant, it means that the inter
 
 ## Summary Statistics on Suspension Coils
 
+<img align='left' src='Resources/coil_summary.png' height='200'>
+The variance for the total manufacturing lot is 62 < 100, which is within the expected design specifications of staying under 100 PSI.
+<br clear="left"/>
 
-
-The variance for the total manufacturing lot is 62 < 100, which is within the expected design specifications of staying under 100 PSI. 
-
-
-
+<img align='left' src='Resources/lot_summary.png' height='200'>
 However, when reviewing the data by Lot number, Lot 3 is a large contributing factor to the variance being high. Lot 3 shows a variance of 170 > 100 and does not meet the design specifications. Lot 1 and Lot 2 have significantly lower variance, 1 and 7 respectively.
+<br clear="left"/>

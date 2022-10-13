@@ -10,8 +10,6 @@ Looking at the individual variable p-values in the summary output below, each Pr
 
 <img align='left' src='Resources/mpg_pvalue.png' height='200'>
 According to our results, vehicle length and ground clearance (as well as intercept) are statistically unlikely to provide random amounts of variance to the linear model. In other words the vehicle length and ground clearance have a significant impact on mpg efficiency.
-<br><br>
-(click the image to enlarge)
 <br clear="left"/>
 
 <br>

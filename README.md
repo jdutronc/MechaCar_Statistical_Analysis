@@ -31,3 +31,7 @@ The variance for the total manufacturing lot is 62 which is within the expected 
 <img align='left' src='Resources/lot_summary.png' height='200'>
 However, when reviewing the lot_summry table, we can see that Lot 3 shows a variance of 170 well above the design specifications of 100 PSI. Lot 1 and Lot 2 have significantly lower variance, 1 and 7 respectively.
 <br clear="left"/>
+
+
+## T-Tests on Suspension Coils
+

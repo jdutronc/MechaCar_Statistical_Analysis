@@ -36,25 +36,25 @@ However, when reviewing the lot_summry table, we can see that Lot 3 shows a vari
 ## T-Tests on Suspension Coils
 
 <img align='left' src='Resources/ttest_all_lots.png' height='200'>
-The p-value for all lots is 1, above .05, therefore we do not have sufficient evidence to reject the null hypothesis and we would state that the two means are statistically similar.
+The p-value for all lots is 0.06028, above .05, therefore we do not have sufficient evidence to reject the null hypothesis and we would state that the two means are statistically similar.
 <br clear="left"/>
 
 <br>
 
 <img align='left' src='Resources/ttest_lot1.png' height='200'>
-Here the p-value for Lot 1 is 1.568e-11, below .05, therefore we have sufficient evidence to reject the null hypothesis and we would state that the two means are not statistically similar.
+Here the p-value for Lot 1 is 1, above .05, therefore we do not have sufficient evidence to reject the null hypothesis and we would state that the two means are statistically similar.
 <br clear="left"/>
 
 <br>
 
 <img align='left' src='Resources/ttest_lot2.png' height='200'>
-Here the p-value for Lot 1 is 0.0005911, below .05, therefore we have sufficient evidence to reject the null hypothesis and we would state that the two means are not statistically similar.
+Here the p-value for Lot 1 is 0.6072, above .05, therefore we do not have sufficient evidence to reject the null hypothesis and we would state that the two means are statistically similar.
 <br clear="left"/>
 
 <br>
 
 <img align='left' src='Resources/ttest_lot3.png' height='200'>
-Here the p-value for Lot 1 is 0.1589, above .05, therefore we do not have sufficient evidence to reject the null hypothesis and we would state that the two means are statistically similar.
+Here the p-value for Lot 1 is 0.04168, below .05, therefore we have sufficient evidence to reject the null hypothesis and we would state that the two means are not statistically similar.
 <br clear="left"/>
 
 

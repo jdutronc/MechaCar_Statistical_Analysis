@@ -60,17 +60,14 @@ Here the p-value for Lot 1 is 0.04168, below .05, therefore we have sufficient e
 
 ## Study Design: MechaCar vs Competition
 
-When comparing MechaCar to its competitor’s other metrics that could be of interest to a consumer could include cost, car color, city fuel efficiency, highway fuel efficiency, horsepower, maintenance cost, or safety rating.
+One possible study could be to evaluate MechaCar's pricing against its direct competitors on the market based on a number of safety and performance criteria.
 
-What metric or metrics are you going to test?
-The next metrics to test should be the safety rating, horsepower, and highway fuel efficiency, which address some safety concerns of consumers.
+After gathering data (below) on competing car models released in the last few years, we could test selling price (dependent variable) against the following independent variables:
+- safety rating;
+- full efficiency;
+- horse power;
+- maintenance cost.
 
-What is the null hypothesis or alternative hypothesis?
-The null hypothesis is that the mean of the safety rating is zero. The alternative hypothesis is that the mean of the safety rating is not zero.
+Our null hypothesis would be that MechaCar is priced appropriately against its competitors, and our alternative hypothesis would be that it's not priced appropriately.
 
-What statistical test would you use to test the hypothesis? And why?
-Using a multiple linear regression statistical summary would show how the variables impact the safety ratings for MechaCar and their competitors.
-
-What data is needed to run the statistical test?
-A random sample of n > 30 for MechaCar and their competitor, would need to be collected including the safety ratings, highway fuel efficiency, and horsepower plus running the data through RStudio.
-
+A multiple linear regression would be used to determine the factors that have the highest correlation with the selling price and help optimize MechaCar's selling price against its competitors.

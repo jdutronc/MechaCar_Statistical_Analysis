@@ -62,7 +62,7 @@ Here the p-value for Lot 1 is 0.04168, below .05, therefore we have sufficient e
 
 One possible study could be to evaluate MechaCar's pricing against its direct competitors on the market based on a number of safety and performance criteria.
 
-After gathering data (below) on competing car models released in the last few years, we could test selling price (dependent variable) against the following independent variables:
+After gathering data (below) on competing car models released in the last few years, we could test selling price as a dependent variable against the following independent variables:
 - safety rating;
 - full efficiency;
 - horse power;
